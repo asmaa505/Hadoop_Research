@@ -1,0 +1,10 @@
+haddop roadmap
+1. what is haddop?
+definition
+why was it created
+
+2. components
+3. concept
+4. adventages
+5. disadventages
+6. usage
